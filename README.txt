@@ -152,7 +152,7 @@ UTENTI
 (NAME, EMAIL, PASSWORD):
 Andrea       andrea.andrei415@gmail.com  miaomiao
 Gabriele     gabryfoletto28@gmail.com    gabriele123
-LucaDeLuchi  lucadeluchi@gmail.com       unabellapassword
+Luca  lucadeluchi@gmail.com       unabellapassword
 Matteo       matteomattei@gmail.com      sonomatteo
 
 
