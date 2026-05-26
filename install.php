@@ -1,10 +1,7 @@
 <?php
-$host = "localhost";
-$user = "root";
-$pass = "";
-$db_name = "Andrea.DeNardis.PHP-MySQL";
+require_once('dati_generali.php');
 
-$conn = mysqli_connect($host, $user, $pass);
+$conn = mysqli_connect($db_server, $db_user, $db_pass);
 
 if (!$conn) {
     die("Connessione fallita: " . mysqli_connect_error());

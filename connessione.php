@@ -1,9 +1,5 @@
 <?php
-    $db_server = "localhost";
-    $db_user = "root";
-    $db_pass = "";
-    $db_name = "Andrea.DeNardis.PHP-MySQL";
-    $conn = "";
+  require_once('dati_generali.php');
 
     $conn = mysqli_connect(
         $db_server,

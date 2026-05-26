@@ -1,5 +1,7 @@
 Descrizione del sito:
 GamingZone è un sito web dedicato al mondo dei videogiochi, in particolare ai titoli più attesi del 2026. Il sito permette agli utenti di esplorare giochi in evidenza, leggere dettagli sui titoli, visualizzare recensioni e inserire commenti.
+Per il titolo principale del sito è stato utilizzato un font personalizzato in stile pixel-art, integrato tramite la regola CSS ⁠ @font-face ⁠.
+Il font contribuisce a mantenere una grafica coerente con il tema videoludico del progetto.
 Il progetto implementa:
 
 •⁠  ⁠gestione utenti;
@@ -9,6 +11,9 @@ Il progetto implementa:
 •⁠  ⁠caricamento dinamico dei giochi dal database;
 •⁠  ⁠visualizzazione dinamica delle pagine dedicate ai videogiochi;
 •⁠  ⁠sistema di commenti associati ai giochi.
+
+
+
 
 
 Tecnologie utilizzate
@@ -22,6 +27,7 @@ Tecnologie utilizzate
 
 
 Struttura del progetto
+
 
 index.php
 
@@ -152,9 +158,9 @@ UTENTI
 (NAME, EMAIL, PASSWORD):
 Andrea       andrea.andrei415@gmail.com  miaomiao
 Gabriele     gabryfoletto28@gmail.com    gabriele123
-Luca  lucadeluchi@gmail.com       unabellapassword
+Luca         lucadeluchi@gmail.com       unabellapassword
 Matteo       matteomattei@gmail.com      sonomatteo
 
 
 AUTORI: Gabriele Foletto 2106970, Andrea De Nardis 2149279
-GITHUB: https://github.com/denardisandrea/HOMEWORK-PHP-MySQL-Andrea-De-Nardis.git
+GITHUB: https://github.com/denardisandrea/HOMEWORK-PHP-MySQL-Andrea-De-Nardis
